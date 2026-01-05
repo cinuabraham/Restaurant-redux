@@ -24,6 +24,7 @@ useEffect(()=>{
           <RestCard restaurant = {restaurant}/>
           </Col>))
           :<p className='text-danger fs-4'>Nothing to display</p>
+          
       }
 
         
